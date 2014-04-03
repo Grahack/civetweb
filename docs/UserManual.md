@@ -1,4 +1,3 @@
-
 Overview
 =====
 
@@ -8,7 +7,9 @@ not require any external software to run.
 Installation
 ----
 
-### Some Windows users may be the install the
+### Windows requirements
+
+Some Windows users may need to install
 [Visual C++ Redistributable for Visual Studio 2012](http://www.microsoft.com/en-us/download/details.aspx?id=30679)
 
 On Windows, civetweb iconifies itself to the system tray icon when started.
